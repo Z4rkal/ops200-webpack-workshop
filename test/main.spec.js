@@ -30,7 +30,7 @@ describe('webpack webpage', function () {
       .goto(url)
       .wait('#root div')
       .evaluate(() => {
-        const selector = '[data-reactroot], [data-reactid]';
+        const selector = '#react-div';
         const runningReact = !!document.querySelector(selector);
         return !!runningReact;
       })

@@ -1,0 +1,1 @@
+This project was part of a webpack tutorial, nothing more.
