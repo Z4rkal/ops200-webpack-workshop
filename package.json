@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/OriginCodeAcademy/startnow-ops200-webpack-workshop#readme",
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "bluebird": "^3.5.5",
     "chai": "^4.2.0",
     "debug": "^4.1.1",
